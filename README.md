@@ -2,17 +2,17 @@
 
 ### IT Professional dengan Latar Belakang Web Development dan Administrasi Sistem IT.
 
-Saya adalah seorang profesional IT yang sangat terampil dengan latar belakang yang kuat dalam kepemimpinan proyek, administrasi sistem IT, dan pengembangan web[cite: 6]. Saat ini, saya sedang melanjutkan studi Magister di Institut Teknologi Sepuluh Nopember (ITS) dengan fokus pada Machine Learning dan Big Data[cite: 29, 31]. Saya berkomitmen untuk memanfaatkan pengetahuan dan pola pikir strategis saya untuk memecahkan masalah yang kompleks dan memberikan kontribusi berharga bagi tim yang dinamis[cite: 8].
+Saya adalah seorang profesional IT yang sangat terampil dengan latar belakang yang kuat dalam kepemimpinan proyek, administrasi sistem IT, dan pengembangan web. Saat ini, saya sedang melanjutkan studi Magister di Institut Teknologi Sepuluh Nopember (ITS) dengan fokus pada Machine Learning dan Big Data. Saya berkomitmen untuk memanfaatkan pengetahuan dan pola pikir strategis saya untuk memecahkan masalah yang kompleks dan memberikan kontribusi berharga bagi tim yang dinamis.
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
--   🎓 Saat ini sedang menempuh studi **Magister Teknik Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**[cite: 29, 30].
--   💻 Bekerja sebagai **Staff IT** di **PT. Saphire Asset Internasional**, di mana saya mengelola sistem jaringan, memberikan dukungan teknis, dan melakukan pemeliharaan rutin pada website perusahaan[cite: 10].
--   💡 Memiliki pengalaman luas sebagai **Website Developer (Freelance)**, berhasil merancang dan membangun berbagai aplikasi seperti sistem *supply chain*, sistem keanggotaan online, dan aplikasi E-Report untuk Kementerian Pendidikan menggunakan Laravel, React, dan Livewire[cite: 10].
--   🏆 Berpengalaman memimpin tim sebagai **Ketua Program Kreativitas Mahasiswa (PKM)**, di mana saya berhasil mengamankan pendanaan dari Kementerian Pendidikan dan mengelola proyek pengembangan aplikasi media pembelajaran digital dari awal hingga akhir[cite: 11, 15, 16, 18].
--   🚀 Antusias dalam menerapkan teknologi untuk efisiensi, terbukti dari pengalaman merancang SOP untuk meningkatkan efisiensi alur kerja di Badan Kepegawaian dan Pengembangan Sumber Daya Manusia[cite: 10].
+-   🎓 Saat ini sedang menempuh studi **Magister Teknik Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**.
+-   💻 Bekerja sebagai **Staff IT** di **PT. Saphire Asset Internasional**, di mana saya mengelola sistem jaringan, memberikan dukungan teknis, dan melakukan pemeliharaan rutin pada website perusahaan.
+-   💡 Memiliki pengalaman luas sebagai **Website Developer (Freelance)**, berhasil merancang dan membangun berbagai aplikasi seperti sistem *supply chain*, sistem keanggotaan online, dan aplikasi E-Report untuk Kementerian Pendidikan menggunakan Laravel, React, dan Livewire.
+-   🏆 Berpengalaman memimpin tim sebagai **Ketua Program Kreativitas Mahasiswa (PKM)**, di mana saya berhasil mengamankan pendanaan dari Kementerian Pendidikan dan mengelola proyek pengembangan aplikasi media pembelajaran digital dari awal hingga akhir.
+-   🚀 Antusias dalam menerapkan teknologi untuk efisiensi, terbukti dari pengalaman merancang SOP untuk meningkatkan efisiensi alur kerja di Badan Kepegawaian dan Pengembangan Sumber Daya Manusia.
 
 ---
 
@@ -62,7 +62,13 @@ Berikut adalah beberapa teknologi yang saya kuasai dan sering gunakan:
 Mari terhubung dan berdiskusi lebih lanjut mengenai proyek atau peluang kolaborasi!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/muhalfathan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhalfathan" height="30" width="40" /></a>
-<a href="https://www.alfathandr.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="alfathandr.com" height="30" width="40" /></a>
-<a href="mailto:alfathandr@outlook.co.id" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft-outlook.svg" alt="alfathandr@outlook.co.id" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muhalfathan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.alfathandr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:alfathandr@outlook.co.id" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
 </p>
