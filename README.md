@@ -2,17 +2,17 @@
 
 ### IT Professional dengan Latar Belakang Web Development dan Administrasi Sistem IT.
 
-[cite_start]Saya adalah seorang profesional IT yang sangat terampil dengan latar belakang yang kuat dalam kepemimpinan proyek, administrasi sistem IT, dan pengembangan web[cite: 6]. [cite_start]Saat ini, saya sedang melanjutkan studi Magister di Institut Teknologi Sepuluh Nopember (ITS) dengan fokus pada Machine Learning dan Big Data[cite: 29, 31]. [cite_start]Saya berkomitmen untuk memanfaatkan pengetahuan dan pola pikir strategis saya untuk memecahkan masalah yang kompleks dan memberikan kontribusi berharga bagi tim yang dinamis[cite: 8].
+Saya adalah seorang profesional IT yang sangat terampil dengan latar belakang yang kuat dalam kepemimpinan proyek, administrasi sistem IT, dan pengembangan web[cite: 6]. Saat ini, saya sedang melanjutkan studi Magister di Institut Teknologi Sepuluh Nopember (ITS) dengan fokus pada Machine Learning dan Big Data[cite: 29, 31]. Saya berkomitmen untuk memanfaatkan pengetahuan dan pola pikir strategis saya untuk memecahkan masalah yang kompleks dan memberikan kontribusi berharga bagi tim yang dinamis[cite: 8].
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
--   [cite_start]🎓 Saat ini sedang menempuh studi **Magister Teknik Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**[cite: 29, 30].
--   💻 Bekerja sebagai **Staff IT** di **PT. [cite_start]Saphire Asset Internasional**, di mana saya mengelola sistem jaringan, memberikan dukungan teknis, dan melakukan pemeliharaan rutin pada website perusahaan[cite: 10].
--   [cite_start]💡 Memiliki pengalaman luas sebagai **Website Developer (Freelance)**, berhasil merancang dan membangun berbagai aplikasi seperti sistem *supply chain*, sistem keanggotaan online, dan aplikasi E-Report untuk Kementerian Pendidikan menggunakan Laravel, React, dan Livewire[cite: 10].
--   [cite_start]🏆 Berpengalaman memimpin tim sebagai **Ketua Program Kreativitas Mahasiswa (PKM)**, di mana saya berhasil mengamankan pendanaan dari Kementerian Pendidikan dan mengelola proyek pengembangan aplikasi media pembelajaran digital dari awal hingga akhir[cite: 11, 15, 16, 18].
--   [cite_start]🚀 Antusias dalam menerapkan teknologi untuk efisiensi, terbukti dari pengalaman merancang SOP untuk meningkatkan efisiensi alur kerja di Badan Kepegawaian dan Pengembangan Sumber Daya Manusia[cite: 10].
+-   🎓 Saat ini sedang menempuh studi **Magister Teknik Informatika** di **Institut Teknologi Sepuluh Nopember (ITS)**[cite: 29, 30].
+-   💻 Bekerja sebagai **Staff IT** di **PT. Saphire Asset Internasional**, di mana saya mengelola sistem jaringan, memberikan dukungan teknis, dan melakukan pemeliharaan rutin pada website perusahaan[cite: 10].
+-   💡 Memiliki pengalaman luas sebagai **Website Developer (Freelance)**, berhasil merancang dan membangun berbagai aplikasi seperti sistem *supply chain*, sistem keanggotaan online, dan aplikasi E-Report untuk Kementerian Pendidikan menggunakan Laravel, React, dan Livewire[cite: 10].
+-   🏆 Berpengalaman memimpin tim sebagai **Ketua Program Kreativitas Mahasiswa (PKM)**, di mana saya berhasil mengamankan pendanaan dari Kementerian Pendidikan dan mengelola proyek pengembangan aplikasi media pembelajaran digital dari awal hingga akhir[cite: 11, 15, 16, 18].
+-   🚀 Antusias dalam menerapkan teknologi untuk efisiensi, terbukti dari pengalaman merancang SOP untuk meningkatkan efisiensi alur kerja di Badan Kepegawaian dan Pengembangan Sumber Daya Manusia[cite: 10].
 
 ---
 
@@ -44,16 +44,16 @@ Berikut adalah beberapa teknologi yang saya kuasai dan sering gunakan:
 </p>
 
 **Keahlian Lainnya:**
--   [cite_start]**Manajemen Proyek** [cite: 41]
--   [cite_start]**Kepemimpinan Tim** [cite: 41]
--   [cite_start]**Pemecahan Masalah** [cite: 41]
--   [cite_start]**Komunikasi** [cite: 41]
+-   **Manajemen Proyek** 
+-   **Kepemimpinan Tim** 
+-   **Pemecahan Masalah** 
+-   **Komunikasi** 
 
 ---
 
 ### 🏆 Sertifikasi
 
--   [cite_start]**Junior Web Developer** - Badan Nasional Sertifikasi Profesi (BNSP) [cite: 43, 44]
+-   **Junior Web Developer** - Badan Nasional Sertifikasi Profesi (BNSP)
 
 ---
 
