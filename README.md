@@ -43,12 +43,6 @@ Berikut adalah beberapa teknologi yang saya kuasai dan sering gunakan:
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
 </p>
 
-**Keahlian Lainnya:**
--   **Manajemen Proyek** 
--   **Kepemimpinan Tim** 
--   **Pemecahan Masalah** 
--   **Komunikasi** 
-
 ---
 
 ### 🏆 Sertifikasi
